@@ -14,7 +14,13 @@ table,td{
 	border-collapse: collapse;
 	padding: 0;
 	max-width: 190;
+	margin-top: 12px;
+	padding: 2px;
 
+}
+
+td:hover{
+	color: lightcoral;
 }
 #flname{
 	max-width: 85%;
